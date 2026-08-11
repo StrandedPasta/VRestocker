@@ -7,5 +7,8 @@ All this mod adds is a simple button on the top left of the main screen. If the 
 ### Dependencies
 Dependencies: mobs_mc,mcl_util  
 *These are the bare minimum. Of course it would be ideal to have the entire Mineclonia game.
-## Licence
-Code: LGPL Art: CC-BY-SA
+## License
+Personal Code License: [LGPL 3.0 or later](https://www.gnu.org/licenses/lgpl-3.0.en.html)  
+Used Mineclonia Code falls under: [GPL 3.0 or later](https://www.gnu.org/licenses/gpl-3.0.en.html)  
+Art: [CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en)  
+For more details, just look at the [License.md](https://github.com/StrandedPasta/Villager_Restocker/blob/main/LICENSE.md)
